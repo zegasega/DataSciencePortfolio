@@ -56,7 +56,7 @@ This section includes code snippets developed using Object-Oriented Programming 
 
 ## Discord Bot Development with Python (Pycord)
 
-This project involves the development of Discord bots using the Python programming language. Each bot has its own folder.
+This project involves the development of Discord bots using the Python programming language.
 
 ### Installation
 
