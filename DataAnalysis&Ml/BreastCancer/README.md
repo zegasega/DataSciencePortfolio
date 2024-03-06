@@ -24,3 +24,7 @@ Random Forest, birbirinden bağımsız birden çok karar ağacının (decision t
 
 Decision Tree, karar ağaçları ile sınıflandırma ve regresyon problemlerini çözen bir algoritmadır. Proje kapsamında Decision Tree kullanılarak meme kanseri teşhisi yapılmıştır.
 
+### 5. Logistic Regression
+
+Logistic regresyon, bağımlı değişkenin (sonuç) iki kategoriden birine ait olduğu durumları tahmin etmek için kullanılır. Bu durumda, regresyon sonuçları 0 ile 1 arasında bir olasılık değeri olarak ifade eder ve bu değer, belirli bir sınıfa ait olma olasılığını temsil eder
+
