@@ -36,6 +36,10 @@ In this category, you will find projects related to data analysis and machine le
 6. **World University Analysis(Stanford)**
    - Description: [Description here]
    - Code: [Code folder/link]
+     
+7. **Handwritten digit recognation**
+   - Description: [Description here]
+   - Code: [Code folder/link]
 ## Python OOP Projects
 
 This section includes code snippets developed using Object-Oriented Programming (OOP) in Python. Each example is organized in its own folder.
